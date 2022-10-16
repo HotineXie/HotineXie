@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @HotineXie
 - 👀 I’m interested in distributed system and HPC
-- 🌱 I’m currently learning distributed system,
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
+- 🌱 I’m currently learning distributed system and OS
+- 💞️ I’m looking to collaborate on cloud native development
 - 📫 How to reach me: hotinexie@gmail.com
 
 <!---
